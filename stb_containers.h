@@ -1,6 +1,5 @@
 #ifndef STB_CONTAINERS
 #define STB_CONTAINERS
-#include <cstddef>
 #include <stdlib.h>
 
 // Dynamic array - `vector`

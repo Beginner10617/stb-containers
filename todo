@@ -1,0 +1,9 @@
+01. Dynamic array - `vector`
+02. Hash table - `unordered_map` / `unordered_set`
+03. Heap / priority queue
+04. Doubly linked list - `list`
+05. Deque / circular buffer
+06. Balanced search tree - `map` / `set`
+07. Stack
+08. Queue
+09. Bitset
